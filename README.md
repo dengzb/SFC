@@ -13,6 +13,7 @@ I read several pin tools to know how to implement my own cache hierarchy and sim
  
 
 allCache.cpp
+
 Code to configure the cache is in allCache.cpp. Including the cache level, cache size and cache block size is defined in this file. And Pin-cache.H is included.
 
 Pin_cache.H
